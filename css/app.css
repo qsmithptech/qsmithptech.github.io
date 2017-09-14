@@ -1,0 +1,96 @@
+
+/******************************
+General
+*******************************/
+.wrap{
+  width: 93%;
+  margin: auto;
+}
+/******************************
+Navigation
+*******************************/
+.top-bar{
+  background-color: black;
+  background-image: url("../images/binding_dark.png") ;
+}
+.top-bar ul{
+  background-color: transparent;
+  border-style: none;
+}
+.top-bar li{
+  background-color: black;
+}
+.top-bar h4, .top-bar a{
+  color: white;
+  font-weight: bold;
+font-family: 'Roboto Condensed', sans-serif;
+text-align: center;
+padding-top: 2em;
+
+}
+
+.menu, .vertical, .off-canvas{
+  background-color: black;
+  color: white;
+  font-weight: bold;
+font-family: 'Roboto Condensed', sans-serif;
+text-align: center;
+padding-top: 2em;
+
+}
+/******************************
+Header
+*******************************/
+.orbit-image{
+  width: 50%;
+  margin: 0 auto;
+  display: block;
+}
+.orbit-bullets{
+  margin: 0;
+}
+/******************************
+Main
+*******************************/
+.Main{
+  color: white;
+  background-color: black;
+  padding: 3em 0;
+
+}
+.Main-img{
+
+
+
+}
+
+
+
+
+/******************************
+Footer
+*******************************/
+.Footer{
+  color: white;
+  text-align: center;
+  background-color: black;
+  background-image: url("../images/tweed.png");
+  padding: 3em 0;
+}
+.Footer h3{
+  color: white;
+}
+.Footer a{
+  color: white;
+}
+.Footer img{
+  height: 5em;
+  width: 5em;
+}
+/********************************
+Menu
+*********************************/
+.off-canvas-content{
+  background-color:black;
+
+}
